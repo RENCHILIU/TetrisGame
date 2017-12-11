@@ -14,7 +14,7 @@ hope you enjoy the game.
 
 # Function:
 
-1. Constants M, N, and S are individually adjustable.
+1. Speed, Difficult, Score value are individually adjustable.
 
 
 2. The width and height of “Main area” can be adjusted (beyond 10 x 20 squares). default value : 10X15
